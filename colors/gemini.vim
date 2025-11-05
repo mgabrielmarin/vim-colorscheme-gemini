@@ -55,6 +55,7 @@ call s:hi('Search', s:brown, s:brown_t, s:white, s:white_t)
 call s:hi('CurSearch', s:lgrey, s:lgrey_t, s:white, s:white_t)
 call s:hi('Pmenu', s:grey, s:grey_t, s:white, s:white_t)
 call s:hi('PmenuSel', s:lgrey, s:lgrey_t, s:white, s:white_t)
+call s:hi('StatusLine', s:white, s:white_t, s:lgrey, s:lgrey_t)
 
 " Syntax
 call s:hi('Comment', s:black, s:black_t, s:grey, s:grey_t)
