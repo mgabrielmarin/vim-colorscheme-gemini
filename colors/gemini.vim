@@ -12,9 +12,10 @@ if exists("syntax_on")
 	syntax reset
 endif
 
+" Color scheme name
 let g:colors_name = "gemini"
 
-" Background & Foreground
+" Colors definition
 let s:black='#1e1e1e'
 let s:black_t=234
 let s:white='#d4d4d4'
